@@ -1,0 +1,44 @@
+/* add your CSS here */
+body {
+  display: block;
+  border: 1px solid slategray;
+  width: 340px;
+  height: 36em;
+  margin-left: 20px;
+  font-size: 1em;
+  box-shadow: 3px 3px 10px 3px gainsboro;
+}
+.pic {
+  width: 301.5px;
+  /* border: 1px solid black; */
+}
+.facts {
+  display: block;
+  border: 1px solid slategray;
+  width: 300px;
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+  font-style: normal;
+}
+.ital {
+  font-style: italic;
+}
+li {
+  list-style: none;
+  text-align: left;
+  margin-left: -30px
+}
+p {
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px
+
+}
